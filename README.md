@@ -12,7 +12,7 @@
 [데이터보기](https://github.com/kks6/python2019/blob/master/final.csv)
 
 ## 소스
-* [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
+* [링크로 소스 내용 보기](https://github.com/kks6/python2019/blob/master/test.py) 
 
 * 코드 삽입
 ~~~python
