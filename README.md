@@ -7,6 +7,7 @@
 
 ## 프로젝트 개요
 2011년 부터 2019년 사이의 대한민국 등록선박자료를 분석하여 선종별 선령별 수주현황을 제시하고 이를 파이썬 맷플랏과 판다스를 활용하여 나타낸다.
+https://youtu.be/wwZbNDnfyos
 
 ## 사용한 공공데이터 
 [데이터보기](https://github.com/kks6/python2019/blob/master/final.csv)
